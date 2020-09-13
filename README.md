@@ -32,12 +32,12 @@
 <h2>My projects <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="22" height="22"/></h2>
 <!-- Git Projects -->
 
-<a href="https://github.com/PauloGoncalvesLima">
+<a href="https://github.com/PauloGoncalvesLima/Games-Projects">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulogoncalvesLima&repo=Games-Projects" />
 </a>
-<a href="https://github.com/PauloGoncalvesLima">
+<a href="https://github.com/ChatBot-Bino/Chatbot-Bino">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=PaulogoncalvesLima&repo=Chatbot-Bino" />
 </a>
-<a href="https://github.com/PauloGoncalvesLima">
+<a href="https://github.com/PauloGoncalvesLima/AsteriscoDecoder">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=PaulogoncalvesLima&repo=AsteriscoDecoder" />
 </a>
