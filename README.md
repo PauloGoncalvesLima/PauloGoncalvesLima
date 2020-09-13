@@ -34,7 +34,7 @@
 
 <h2>My projects <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="22" height="22"/></h2>
 <!-- Git Projects -->
-<table style="width:100% border: none;" >
+<table style="width:100% border: 0" >
   <tr>
     <th>
       <a href="https://github.com/PauloGoncalvesLima">
