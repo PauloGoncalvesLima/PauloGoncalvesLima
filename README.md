@@ -19,7 +19,7 @@
   }
 ```
 <!-- Git Stats -->
-<table style="width:100% ">
+<table style="width:100% border: none; ">
   <th>
     <a href="https://github.com/PauloGoncalvesLima">
       <img align="center" height='85%'src="https://github-readme-stats.vercel.app/api?username=PaulogoncalvesLima&show_icons=true&count_private=true&title_color=0366d6&icon_color=0366d6" />
@@ -34,7 +34,7 @@
 
 <h2>My projects <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="22" height="22"/></h2>
 <!-- Git Projects -->
-<table style="width:100%" >
+<table style="width:100% border: none;" >
   <tr>
     <th>
       <a href="https://github.com/PauloGoncalvesLima">
