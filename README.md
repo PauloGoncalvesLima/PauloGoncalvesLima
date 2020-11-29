@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://github.com/Requisitos-de-Software/2020.1-Mia-Ajuda">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Requisitos-de-Software&repo=https://github.com/Requisitos-de-Software/2020.1-Mia-Ajuda" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Requisitos-de-Software&repo=2020.1-Mia-Ajuda" />
 </a>
 
 
