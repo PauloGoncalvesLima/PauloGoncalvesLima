@@ -41,3 +41,13 @@
 <a href="https://github.com/PauloGoncalvesLima/AsteriscoDecoder">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=PaulogoncalvesLima&repo=AsteriscoDecoder" />
 </a>
+
+<a href="https://github.com/Interacao-Humano-Computador/2020.1-AliExpress">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Interacao-Humano-Computador&repo=2020.1-AliExpress" />
+</a>
+
+<a href="https://github.com/Requisitos-de-Software/2020.1-Mia-Ajuda">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Requisitos-de-Software&repo=https://github.com/Requisitos-de-Software/2020.1-Mia-Ajuda" />
+</a>
+
+
