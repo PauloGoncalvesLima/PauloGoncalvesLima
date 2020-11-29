@@ -41,7 +41,7 @@
 <a href="https://github.com/PauloGoncalvesLima/AsteriscoDecoder">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=PaulogoncalvesLima&repo=AsteriscoDecoder" />
 </a>
-
+<br>
 <a href="https://github.com/Interacao-Humano-Computador/2020.1-AliExpress">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Interacao-Humano-Computador&repo=2020.1-AliExpress" />
 </a>
