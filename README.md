@@ -13,8 +13,8 @@
 
 ``` Python
   Paulo = {
-    "code": ["Javascript", "C", "C#", "HTML", "CSS", "Ruby", "Python", "Java"],
-    "tools": ["Node", "Docker", "Git-Lab CI"],
+    "code": ["Python", "Javascript", "C", "C#", "HTML", "CSS", "Ruby", , "Java"],
+    "tools": ["Airflow", "Node", "Docker", "Git-Lab CI"],
     "currentGoal": "Make more stuff"
   }
 ```
