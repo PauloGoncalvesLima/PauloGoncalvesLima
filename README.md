@@ -19,13 +19,14 @@
   }
 ```
 <!-- Git Stats -->
+<!-- 
 <a href="https://github.com/PauloGoncalvesLima">
   <img align="center" height='85%'src="https://github-readme-stats.vercel.app/api?username=PaulogoncalvesLima&show_icons=true&count_private=true&title_color=0366d6&icon_color=0366d6" />
 </a>
-<!-- Toplags is bugged check if they fixed later https://github.com/anuraghazra/github-readme-stats -->
-<!-- <a href="https://github.com/PauloGoncalvesLima">
-  <img align="center" height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulogoncalvesLima&orgs=ChatBot-Bino&langs_count=10&count_private=true&layout=compact&hide=C%23" /> -->
+<a href="https://github.com/PauloGoncalvesLima">
+  <img align="center" height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulogoncalvesLima&orgs=ChatBot-Bino&langs_count=10&count_private=true&layout=compact&hide=C%23" />
 </a>
+-->
 
 
 
